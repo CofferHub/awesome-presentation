@@ -26,4 +26,4 @@ The Awesome Presentation documentation is still in progress.
 
 ## Contributing
 
-We always wants to improve an idea, wanna share your thoughts, come here.
+We always wants to improve an idea, wanna share your thoughts? [come here](https://github.com/CofferHub/awesome-presentation/issues).
