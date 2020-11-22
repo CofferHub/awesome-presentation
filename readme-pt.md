@@ -1,6 +1,6 @@
 # Apresentação incrível
 
-> Um modelo de coofer para fazer palestras e apresentações técnicas.
+> Um modelo para fazer palestras e apresentações técnicas.
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
@@ -8,8 +8,8 @@
 
 ## visão global
 
-Awesome Presentations is a template for build tech talks. Idealize for create small documentations and a guided example for a practice presentation.
-The main idea is to suit your main presentation and keep a documentation track for your future presentation.
+Apresentações impressionantes é um modelo para palestras sobre tecnologia de construção. Idealize para criar pequenas documentações e um exemplo orientado para uma apresentação prática.
+A ideia principal é se adequar à sua apresentação principal e manter um registro da documentação para sua apresentação futura.
 
 -   Onde está o código?
     > No exemplo de pasta, você pode compartilhar com seus alunos e colegas qualquer código. Para desafios, exemplos guiados e ótima documentação.
@@ -26,4 +26,4 @@ A documentação do Awesome Presentation ainda está em andamento.
 
 ## Contribuindo
 
-Sempre queremos melhorar uma ideia, quer compartilhar sua opinião?[venha aqui](https://github.com/CofferHub/awesome-presentation/issues).
+Queremos sempre melhorar uma ideia, quer compartilhar sua opinião?[venha aqui](https://github.com/CofferHub/awesome-presentation/issues).
