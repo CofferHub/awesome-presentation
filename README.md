@@ -17,6 +17,9 @@ The main idea is to suit your main presentation and keep a documentation track f
 - For who is this repository?
 > For anyone who wants to have a save the time for create a simple structure to organize your presentation and share later, and improve open-source.
 
+- What's next?
+> We want to improve always, and a good idea for this repository, would be to build a custom slider with pagination as a template for create a great presentation.
+
 ## Documentation 
 
 The Awesome Presentation documentation is still in progress.
