@@ -1,14 +1,16 @@
+<img src="./assets/img/presentation-cover.png" alt="Awesome cover" />
+
 # Apresentação incrível
 
 > Um modelo para fazer palestras e apresentações técnicas.
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
-<img src="./assets/img/presentation-cover.png" alt="Awesome cover" />
+<img src="/assets/img/sample.gif" width="800px"/>
 
 ## visão global
 
-Apresentações incríveis é um modelo para palestras sobre tecnologia de construção. Idealize para criar pequenas documentações e um exemplo orientado para uma apresentação prática.
+Apresentações impressionantes é um modelo para palestras sobre tecnologia de construção. Idealize para criar pequenas documentações e um exemplo orientado para uma apresentação prática.
 A ideia principal é se adequar à sua apresentação principal e manter um registro da documentação para sua apresentação futura.
 
 -   Onde está o código?
@@ -26,4 +28,4 @@ A documentação do Awesome Presentation ainda está em andamento.
 
 ## Contribuindo
 
-Sempre queremos melhorar uma ideia, quer compartilhar sua opinião?[venha aqui](https://github.com/CofferHub/awesome-presentation/issues).
+Queremos sempre melhorar uma ideia, quer compartilhar sua opinião?[venha aqui](https://github.com/CofferHub/awesome-presentation/issues).
