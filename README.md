@@ -1,10 +1,10 @@
-# Awesome Presentation 
+# Awesome Presentation
 > A template for making tech talks and presentations.
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
-<img src="./assets/presentation-cover.png" alt="Awesome cover" />
+<img src="./assets/img/presentation-cover.png" alt="Awesome cover" />
 
 ## Overview
 
@@ -20,7 +20,7 @@ The main idea is to suit your main presentation and keep a documentation track f
 - What's next?
 > We want to improve always, and a good idea for this repository, would be to build a custom slider with pagination as a template for create a great presentation.
 
-## Documentation 
+## Documentation
 
 The Awesome Presentation documentation is still in progress.
 
